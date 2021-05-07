@@ -81,7 +81,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
    `An action such as loading, clicking, scrolling, etc...`
 
 3. What is an event listener?
-   `They handle and listner for an event which results in performing a function`
+   `They handle and listen for an event which results in performing a function`
 
 4. Why would we convert a NodeList into an Array?
    `So we can perform Array methods such as .map() and forEach()`
